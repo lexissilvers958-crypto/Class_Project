@@ -1,5 +1,5 @@
 # Web Design Projects
 
 <ul>
-   <li><a href="index.html" target="_blank">LAB</a></li>
+   <a href="INTRO_HTML/index.html" target="_blank">LAB 1</a>
 </ul>
